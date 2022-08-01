@@ -1,0 +1,36 @@
+.header {
+    width: 100%;
+    max-width: 1440px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5em;
+
+    padding: 6em 20em;
+    margin: 0 auto;
+    margin-bottom: 3em;
+   
+    
+}
+
+.header__subtitulo {
+    color: var(--vermelho);
+    font-weight: 600;
+  
+
+}
+
+.header__titulo {
+    color: var(--cinza-preto);
+    font-weight: 600;
+    font-size: 3em;
+   
+}
+
+.header__texto {
+    color: var(--cinza-azul);
+    font-weight: 600;
+    font-size: 1.25em;
+}

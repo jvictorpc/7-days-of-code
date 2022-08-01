@@ -1,6 +1,7 @@
 .cabecalho {
     width: 100%;
-    
+    display: flex;
+    justify-content: center;
 }
 
 .cabecalho__container {

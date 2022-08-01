@@ -1,0 +1,39 @@
+.metricas{
+    width: 100%;
+    height: 35vh;
+    max-width: 1440px;
+    max-height: 288px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 3em;
+}
+
+.metricas__container {
+    width: 24%;
+    height: 100%;
+    padding: 0 1.8em;
+
+}
+
+.metricas__subtitulo {
+    font-weight: 600;
+    font-size: 3.75em;
+    color: var(--vermelho);
+    display: block;
+    margin-bottom: 0.2em;
+
+}
+
+.metricas__titulo {
+    font-weight: 600;
+    font-size: 1.125em;
+    color: var(--cinza-preto);
+    margin-bottom: 0.7em;
+}
+
+.metricas__texto {
+    color: var(--cinza-azul);
+    font-weight: 400;
+}
