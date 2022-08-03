@@ -4,6 +4,7 @@
 @import url('../css/metricas/metricas.css');
 @import url('../css/vagas/vagas.css');
 @import url('../css/vagas/talentos/talentos.css');
+@import url('../css/vagas/vagas-abertas/vagas-abertas.css');
 
 :root {
      
@@ -12,6 +13,7 @@
     --cinza-azul: #667085;
     --cinza-preto: #101828;
     --branco: #ffffff;
+    --cor-borda: #EAECF0;
 }
 
 /*reset*/
