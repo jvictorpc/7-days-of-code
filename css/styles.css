@@ -6,6 +6,7 @@
 @import url('../css/vagas/talentos/talentos.css');
 @import url('../css/vagas/vagas-abertas/vagas-abertas.css');
 @import url('../css/depoimentos/depoimentos.css');
+@import url('../css/rodape/rodape.css');
 
 :root {
      
@@ -15,6 +16,7 @@
     --cinza-preto: #101828;
     --branco: #ffffff;
     --cor-borda: #EAECF0;
+    --cor-rodape: #F9FAFB;
 }
 
 /*reset*/
